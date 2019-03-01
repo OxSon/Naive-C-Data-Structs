@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /* node data is stored here */
-#include "node.h"
+#include "include/node.h"
 
 
 /**
