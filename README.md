@@ -7,4 +7,7 @@ I don't claim that any of these structures are *good* implementations much less 
 + Linked list (singly linked)
 + Stack (linked list implementation)
 
+### WIP:
++ Deque (doubly linked list implementation)
+
 Thanks for looking!
