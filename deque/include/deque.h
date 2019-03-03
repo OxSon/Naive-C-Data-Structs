@@ -14,4 +14,7 @@ int deq_rmvLast(struct deque * deq);
 
 int deq_empty(struct deque * deq);
 
+void deq_print(struct deque * deq);
+void deq_print_reverse(struct deque * deq);
+
 #endif
