@@ -3,12 +3,15 @@
 That is, they are all written by somebody (me) brand new to the language and memory mangement in general.
 I don't claim that any of these structures are *good* implementations much less *ideal* implementations. Feedback or notes are welcomed in the issues.
 
-### Currently have:
+### Finished and well-tested:
 + Linked list (singly linked)
-+ Stack (linked list implementation)
 
-### WIP:
+### Finished:
++ Stack (linked list implementation)
 + Deque (doubly linked list implementation)
+
+### WIP/To Do:
++ Randomized Queue (resizing array implementation)
 
 
 Thanks for looking!
